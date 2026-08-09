@@ -12,9 +12,16 @@ This repository reports the completion of Lab Activity 1. The activity focused o
 
 This README specifically explains how to run the activity starting from zero.
 
-## Prerequisites
+## Prerequisites & Technologies
 
-This activity was done on Windows. To do the activity, our system must be configured with the necessary tools. 
+This activity was done on Windows. To run this project, you will need the following tools and services:
+
+* **Operating System:** Windows Subsystem for Linux (WSL) running Ubuntu
+* **Language:** Python 3
+* **Environment Management:** `venv` (Python Virtual Environment)
+* **Version Control:** Git & GitHub
+
+## Environment Setup
 
 <img src="README_visuals/Image2.png">
 
